@@ -1,0 +1,2 @@
+# ghost-media
+media assets
